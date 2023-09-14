@@ -1,1 +1,1 @@
-# Aphrodite
+# next-project
